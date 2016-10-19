@@ -1,0 +1,53 @@
+{
+  "people": [
+    { "id": 1,
+      "country":"spain",
+      "properties": {
+        "name":"Rubi",
+        "age":"20"
+      }
+    },
+    { "id": 2,
+      "country":"germany",
+      "properties": {
+        "name":"Sepp",
+        "age":"34"
+      }
+    },
+    { "id": 3,
+      "country":"austria",
+      "properties": {
+        "name":"Hans",
+        "age":"31"
+      }
+    },
+    { "id": 4,
+      "country": "portugal",
+      "properties": {
+        "name":"Peter",
+        "age":"50"
+      }
+    },
+    { "id": 5,
+      "country": "itali",
+      "properties": {
+        "name":"Albert",
+        "age":"45"
+      }
+    },
+    { "id": 6,
+      "country": "usa",
+      "properties": {
+        "name":"Muli",
+        "age":"34"
+      }
+    }
+  ],
+  "posts": [
+    { "id": 1, "title": "json-server", "author": "typicode" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
+}

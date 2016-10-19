@@ -1,0 +1,16 @@
+{
+  "name": "json-server-api",
+  "version": "1.0.0",
+  "description": "mock rest server api with json-server ",
+  "main": "index.js",
+  "scripts": {
+    "server1": "json-server --port 9000 db.json",
+    "server2":"node index.js"
+
+  },
+  "author": "BoeckMt",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.8.22"
+  }
+}
